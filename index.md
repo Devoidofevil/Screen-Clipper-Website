@@ -5,7 +5,9 @@ This dynamic screen clipper allows the user to clip certain portions of an appli
 You can also work on these mini applications, thereby redefining the word 'multitasking'.
 
 ### Screenshots
-  
+![image](Screenshots/Screenshot%20(1).png)
+![image](Screenshots/Screenshot%20(2).png)
+![image](Screenshots/Screenshot%20(3).png)
 
 ### Instructions
 
