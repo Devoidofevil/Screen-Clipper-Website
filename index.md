@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Dynamic Screen Clipper
 
-You can use the [editor on GitHub](https://github.com/HarshShah1997/Screen-Clipper-Website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+When is multitasking not fun? Imagine watching a youtube video, studying for the pesky quiz on the next day, chatting.....all at ONCE.
+This dynamic screen clipper allows the user to clip certain portions of an application and display it as he/she wishes on their screen.
+You can also work on these mini applications, thereby redefining the word 'multitasking'.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Screenshots
+  
 
-### Markdown
+### Instructions
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HarshShah1997/Screen-Clipper-Website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Run the application.
+2. A clipping frame will be displayed. Proceed to clip out the desired portion from the application. 
+3. This will separate the clipped frame. A new dialog box will now popup where youcan either select the application from which you wish to clip or select a new clip region. 
+4. Upon selecting the application, you may move/resize as you wish.
+5. Have fun!
